@@ -1,4 +1,6 @@
-Mike Mägi
+Mike Mägi 
+
+Logo tegemisel kasutatud vectorit
 
 git add 
 
